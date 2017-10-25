@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: Lib/javapns-jdk16-2.4.0.jar Lib/json-20160810.jar Lib/log4
+ j-1.2.11.jar
+Main-Class: Application
+

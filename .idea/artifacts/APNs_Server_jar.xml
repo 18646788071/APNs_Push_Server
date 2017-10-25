@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="APNs_Server:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/APNs_Server_jar</output-path>
+    <root id="archive" name="APNs_Server.jar">
+      <element id="module-output" name="APNs_Server" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Lib/log4j-1.2.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Lib/json-20160810.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Lib/javapns-jdk16-2.4.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

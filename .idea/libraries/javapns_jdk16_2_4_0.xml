@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javapns-jdk16-2.4.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Lib/javapns-jdk16-2.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
